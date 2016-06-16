@@ -6,11 +6,12 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: c0ldfashioned's dungeon
-email: your-email@domain.com
+title: c0ldfashioned.net
+
 description: > # this means to ignore newlines until "baseurl:"
-  All posts are my own. All content owned by me. Drop me an email
-  if you made it this far, and let me know where you're from. 
+  A site for blogging. You might see some of my music, 
+  DIY stuff or other random noise on here.
+  Tweet if you made it this far, and let me know where you're from! 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://c0ldfashioned.net" # the base hostname & protocol for your site
 twitter_username: cold_fashioned
