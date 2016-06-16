@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Git-tin' It Yet?"
+date:   2016-06-16
+tags: blogging github
+share: true
+---
+Man, I went through quite a loop-de-loop trying to publish this blog post last night. I had made some changes using the github web interface, which I didn't merge with the local repository (my laptop) before writing the post. That caused my blog update to fail when trying to push it to the 'net. In my exhausted state of mind, I beat my head against the wall to no avail. In the future, I think I'll try to stick to updating the repository from my local, or just remember to merge before add any commits. At any rate, I still have a lot to learn about the workflow, but I'm starting to get it. Just have to dive in head first sometimes!
