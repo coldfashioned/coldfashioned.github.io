@@ -1,0 +1,16 @@
+---
+layout: post
+title:  "Keeping up Appearances"
+date:   2016-06-22
+tags: links
+---
+I just want to keep up with regular blog updates, so there might not be a lot of great info in this one (sorry). That being said, I might as well just throw to some stuff that I think is cool and interesting. Maybe you'll find it interesting too?
+
+I may be a nerd, and an Engineer by trade, but I am also a sports fan. One website that satisfies the intersection of those two fields is [Uni Watch][uniwatch]. This blog explores the minutiae of athletic uniforms in an entertaining way, and gives detail oriented folks like me a new way of looking at the sports we watch.
+
+Changing gears, I've been into electronic music since my teens. That interest has waxed and waned over the years. However, since about 2011, I have gotten back into electronic music in a big (and different) way. Building on my DJ days in college, I dove into learning how to make music. I started "in the box" as they say - meaning I used software to compose and arrange music. Over the past few years, however, I discovered the awesome (albeit expensive) world of hardware. In 2014, I decided to take the plunge into the modular synth arena, and it has been amazingly rewarding and fun. One of the great resources for all things modular is [Muff Wiggler][muffs]. This web forum is a wealth of information, and well, cats (because internet).
+
+Anyway, I just mentioned two items that are of interest to me, and managed to create my longest blog post to date. Maybe I do have a few things to say (or maybe it's the wine talking/rambling, who knows).. Cheers.
+
+[uniwatch]: http://uni-watch.com
+[muffs]: http://muffwiggler.com
