@@ -1,0 +1,16 @@
+---
+layout: post
+title:  "Youtube Test | 90 | 119"
+date:   2016-07-08
+tags: liquid include youtube
+---
+So, I found a great new resource for learning [Jekyll][jekyllrb]. After searching for some tips, I stumbled upon a tutorial site called [Jekyll Tips][jTIPS]. While looking for methods to fix my nav bar, or at least to make it appear on all pages, I found a neat trick on using includes for youtube videos. Seeing as I have a youtube page where I post videos of me making noise with my modular synth, I thought I'd try this include trick out in a post. (I'm pretty sure this will work). Anyway, The aim is that a youtube video of my most recent modular noise-fest will appear below. If not, here's some more interesting info. Today is my Dad's birthday. He would have been 90 this year. As cliche as it sounds, there's not a day that has gone by since August 16, 2000 where I have not thought about him. Here's to you, pops!
+
+Well, this post is going up a day late, because I had issues using the liquid include code in this post. I got an error that said I was nesting too deep. Haven't found out what that means, but I'll figure it out!
+
+<div class="spacing youtube">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/e0L8iMtdPP0" frameborder="0" allowfullscreen></iframe>
+</div>
+
+[jekyllrb]: http://jekyllrb.com
+[jTIPS]: http://jekyll.Tips

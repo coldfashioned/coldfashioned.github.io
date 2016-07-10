@@ -9,13 +9,13 @@
 title: c0ldfashioned.net
 
 description: > # this means to ignore newlines until "baseurl:"
-  A site for blogging. You might see some of my music, 
+  A site for blogging. You might see some of my music,
   DIY stuff or other random noise on here.
-  Tweet if you made it this far, and let me know where you're from! 
+  Tweet if you made it this far, and let me know where you're from!
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://c0ldfashioned.net" # the base hostname & protocol for your site
 twitter_username: cold_fashioned
 github_username:  coldfashioned
-
+include: ['_pages']
 # Build settings
 markdown: kramdown
