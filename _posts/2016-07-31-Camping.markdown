@@ -1,0 +1,19 @@
+---
+layout: post
+title:  "Camping, etc."
+date:   2016-07-31
+tags: misc Outdoors
+---
+Just came back from a camping trip up at Black Mountain (Boulder Basin) up near Idyllwild. It's been about 5 years since the last time I was there, and it was great to visit again. I had fun showing everyone some of the old boulder problems we used to climb back in the day. It took a little while to remember how to get to some of them, but it came back to me quickly. Had a bit of a rough drive back for some reason, but now we're relaxing at home. I took some photos at the campground, and I'll make sure to post them up on here soon. (learning opportunity!)
+
+Update on the Raspberry Pi temperature / humidity sensor project. It took a while to get all the code updated and running smoothly, but it's working... mostly! It's collecting data and dumping it into the database, but I can't get the graph to update every minute. I'll have to do some digging in the code to find out what's going on. It's been a fun project to work on, but a little more time-consuming than I originally thought. I want to finish it off soon, so I can focus on some other projects, now that it's August. Here's what I got done from my last to-do list:
+<ul>
+  <li>Oil change for the Acura</li>
+  <li>Oil change for the Subaru</li>
+  <li><strike>Install the new dishwasher (that's a biggie)</strike></li>
+  <li>Complete the RasPi temp. sensor project - almost!</li>
+  <li><strike>Write another blog post</strike></li>
+  <li><strike>Get started with Python Machine Learning book</strike></li>
+</ul>
+
+Looks like I still have some work to do! 
