@@ -1,0 +1,38 @@
+---
+layout: post
+title:  "Data Science Link Dump"
+date:   2016-08-09
+tags: Data Science
+---
+Update on the Raspberry Pi temperature / humidity sensor project. I figured out the crontab task syntax, so now the graph updates every minute! Success! Now, I just need to work on beautifying the web interface, and figure out a way to port it to the internet (vs. only being accessible on our LAN).
+
+In other news, I have been getting more and more into learning about Data Science and Machine Learning. I have been chasing the proverbial rabbit down the hole and have come across a ton of great resources. As such, I figured that now is the time to share some of the resources that I have found most valuable so far.
+
+One of the earliest sites I found was Renee Teate's [Becoming a Data Scientist][becoming]. At first, I thought it was going to be a guidebook for how to make that leap, but actually it's a place for her to tell her story of how she became a Data Scientist. It is definitely that, but also much, much more! The podcast has great, insightful guests. I recently started digging into the forums where the weekly data science activities are posted and I'm looking forward to participating more in the coming weeks.
+
+I also have to shout out Sebastian Raschka [(website)][Raschka], since I bought his book <u>Python Machine Learning.</u> It took a little time and research to determine which programming language to hang my hat on, and once I chose Python, his book seemed to be at the top of everyone's list. I'm just getting started with it, but so far, so good. It's gonna take a while, but I'm up for the challenge.
+
+Here are some other sites that are proving to be interesting and packed with information:<br>
+- [Analytics Vidhya][Vidhya]<br>
+- [Open Source Data Science Masters][OSDSM]<br>
+- [HackerRank][Hack] - Great place for practicing coding skills!
+
+Well, I think that's enough for now. Go follow those links into your own rabbit holes!
+
+Finally, here's an upadate on the to-do list:
+<ul>
+  <li><strike>Oil change for the Acura (and tire rotation)</strike></li>
+  <li><strike>Oil change for the Subaru (and tire rotation, rear brakes)</strike></li>
+  <li><strike>Install the new dishwasher (that's a biggie)</strike></li>
+  <li><strike>Complete the RasPi temp. sensor project</strike> Done for now!</li>
+  <li><strike>Write another blog post</strike></li>
+  <li><strike>Get started with Python Machine Learning book</strike></li>
+</ul>
+
+Time for another list!
+
+[becoming]: http://www.becomingadatascientist.com
+[Raschka]: http://sebastianraschka.com
+[Vidhya]: http://analyticsvidhya.com
+[OSDSM]: http://datasciencemasters.org
+[Hack]: http://hackerrank.com
