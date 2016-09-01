@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Vacation, Excitement"
+date:   2016-08-31
+tags: Fun Sun Vacation
+---
+This is going to be a longer post, most likely, it's been a while since I've updated the blog. August was supposed to be a more low-key month, but it ended up being pretty busy in its own right! The main event of the month was a vacation to visit my brother and sister-in-law in Michigan. We spent a relaxing (almost) week at a lake house near Traverse City. It was the first time there for us, and it was fantastic. Traverse City itself is a really fun resort-like city with a lot of different activities to offer. It was great to get together with the two of them. It had been over a year since we saw them (not good!). Life can get busy at times!
+
+Aside from the vacation, and a camping trip with the in-laws, there were a couple weekends in between, but it never really feels like there's enough time to get everything done. Fortunately, there isn't a ton that <i>needs</i> to get done, but I have completionist tendencies, and weekends offer the most amount of time to complete projects!
+
+In other news, I have been forging ahead with the self-guided training in Data Science / Machine Learning. After listening to a few podcasts, and reading a few articles, I came across some good tips as I get started on this journey. The one tip that has been the most helpful was to sort of map out a learning plan. Place things in a rough chronological order, and budget reasonable amounts of time for everything. That said, I realized that my first focus is going to be building my skills in Python. So - I recently signed up for an intro Python course on [Coursera][Coursera]. I've already buzzed through week one, so it may be a little basic for me, but I think it will still be very valuable in providing the foundation for future learning. It seems like there is so much I have to learn, so having a rough outline of my plan will help prevent me from feeling overwhelmed by it. I haven't felt this energized by a career-related endeavor in a really long time, which also helps motivate me to put in the blood, sweat and tears to achieve my goal.
+
+
+[Coursera]: http://www.Coursera.org
