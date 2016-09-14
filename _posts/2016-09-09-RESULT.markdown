@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "Seize the Day(ta)!"
+date:   2016-09-09
+tags: Data Science Work
+---
+Well, as [Renee Teate][renee] puts it, "Data Science isn't just about the skills, it's more about perseverance." I may have paraphrased a little bit, but that should capture the spirit of the statement. So, how does that relate to me? Well, after immersing myself in the all things Data Science over the past couple months, I'm starting to see hints of it everywhere I look. During a recent vacation, the person sitting next to me on the plane was wearing a t-shirt from the [Pydata Chicago][pydata] conference. Not only that, but he was reading Python Machine Learning! I was pretty tired, and feeling like a n00b, so I didn't strike up any conversation.
+
+Since I was so gun shy, I decided I need to be more outgoing in the future. Gotta start building the network! I reviewed the various Presenters at Pydata Chicago and noticed that one of them works for Caterpillar. I decided to email him and pick his brain about the application of Machine Learning and Data Science at Caterpillar. He replied with a great email, full of information. Building on that, I decided to email a contact at my own company, to find out what we're doing with Data Science. Next thing you know - I get a call from a co-worker who works in Analytics and we got together for a quick meeting! The meeting went well, and I'm looking forward to getting involved in the next phase of his project.
+
+So, after a speedbump, I jumped out of my comfort zone a little bit and it's already paying off. Now I just need to keep working on developing my skills in Python, etc. Until next time, stay tuned.
+
+
+[renee]: http://www.becomingadatascientist.com
+[pydata]: http://http://pydata.org/chicago2016/
