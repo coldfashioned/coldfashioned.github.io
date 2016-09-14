@@ -12,4 +12,4 @@ So, after a speedbump, I jumped out of my comfort zone a little bit and it's alr
 
 
 [renee]: http://www.becomingadatascientist.com
-[pydata]: http://pydata.org/chicago2016/
+[pydata]: http://www.pydata.org/chicago2016/
