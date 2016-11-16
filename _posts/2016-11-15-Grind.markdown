@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Always forward"
+date:   2016-11-15
+tags: Data Science Work Life
+---
+So, I'm not posting as often as I said I would, but at least this interval was shorter! I've been continuing to build the network at work, in hopes of finding ways to get into a role that's more fulfilling and hopefully more into the data science world. It'll be slow going, but that's OK. In the meantime, I will continue learning and putting my new skills into practice. I'm just happy to make progress every day. As long as I keep moving forward and moving toward my goal, I'm happy. Enjoy the journey.
+
+I have had to tweak and update the program I wrote for parsing .txt files at work. I downloaded PyPDF2 and now I can parse .PDF files (as long as they aren't corrupted files). Other than that, I'm nearing the end of my Udemy Pandas class. It has been a pretty good intro. I'm looking forward to diving into Python more and how to apply it to Data Science projects. Still, some days I feel confident in my skills and what I'm doing, and some days I feel like an impostor. That might continue for a while, so I just have to focus on the positive. 
