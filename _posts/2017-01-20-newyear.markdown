@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "What's up in the New Year"
+date:   2017-01-20
+tags: Career House Kitchen
+---
+Well, I continue to do a poor job of updating this blog as often as I'd like! As is likely true for most people, life is busy around Christmas / New Year. Not only are there fun events like holiday parties and dinners to plan for and attend, but I've been trying to really make headway with a couple online classes. I've actually built up a decent backlog on [Udemy][udemy]. Add to that the home improvement projects and getting the house ready for our new arrival, and I've been staring at full days for quite some time. I'm not looking for any high fives, just explaining my lack of time for blogging! The class work has been going well, and I feel like I'm definitely learning the concepts. However, after some reading, and some thinking, I think I need to do more practical work to drive the concepts home. In general, I've learned best when diving in head first, so why stop now?! Since I'm close to completing the class I'm currently working on, I will start with self-driven projects after I'm done with the class. I've been brainstorming project ideas, and I think I have a couple good ones to wrestle with.
+
+In other news, I've been attending a local machine learning meetup [group][mlsociety]. With introvert tendencies in new company, it's been good to get out and break out and network a little bit. I've enjoyed every event (2 panel discussions, 1 hike), and I'm looking forward to future events. Coming up this weekend, I'm going to participate in the Kaggle hackathon group - should be good. Everyone seems really genuine and nice, which helps when feeling like I have no idea what I'm doing / what to do! I'd love to be able to pick up on some workflows, which might help me develop a good foundation as I proceed with getting into machine learning / data science.
+
+Well, I've blabbed enough, but I'm glad I got to spit a few lines for the internet at large! Until next time!
+
+
+[udemy]: http://www.udemy.com
+[mlsociety]: http://www.mlsociety.com
