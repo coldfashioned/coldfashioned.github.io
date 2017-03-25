@@ -1,0 +1,25 @@
+---
+layout: post
+title:  "Working Hard is Hardly Working"
+date:   2017-03-25
+tags:   code markdown jobs
+---
+### Section 1: Markdown tips
+___
+So, I recently read a tutorial on markdown and learned a few tricks! First was the use of the "#" symbol to quickly denote header level. H1 corresponds to a single #, all the way down to six # symbols for h6. The section header above is h3 size, which seems like a nice fit for my blog. I learned that trick when working in Jupyter notebooks, but for some reason, didn't put two and two together for writing blog posts. Next is creating the horizontal break line. That's another fairly easy trick to remember, by using three consecutive underscores, asterisks or dashes.  
+This line should follow a line break, created by two spaces followed by one return. Of course, I prefer double spacing between paragraphs, so I'll just stick with my usual typing patterns for that thankyouverymuch. Also of note are **bold typing, created by enclosing text between double asterisks**, as well as _italicized text, which comes from wrapping text between a single underscore._ That one kinda reminds me if textile formatting, used on the Mutable Instruments forum. Another interesting tip is how to embed code in these blogs posts. Multi-line code snippets will render nicely when wrapped in triple accent marks.
+```python
+summary = False
+if args[0] == '--summaryfile':
+    summary = True
+    del args[0]
+    ```    
+Well, theoretically, at least. I'm going to have to work on code highlighting, it seems. Ironically, I'll probably never go back to fixing this blog post though. The above code snippet shall be incorrect forever!!! Anyway, markdown is great, I'm glad it exists. Markdown is to html as Keras is to TensorFlow. Now, there's a nerdy analogy for you.
+
+### Section 2: New Deep Learning Course
+OK, enough of that. One of the most exciting things I came across in the past couple weeks is a website called [Fast.ai](http://www.fast.ai). They have an online course (MOOC-style) on Deep Learning that is 100% free and sounds amazing. I am drawn in by their philosophy of using a top-down teaching approach, where they start with a complete, state-of-the-art, working deep learning model and then break it down piece by piece in subsequent lessons. I'm looking forward to digging into this class. I just need to find the time. It's a little tougher than it used to be.
+
+### Section 3: Odds and Ends
+Had an interview a couple weeks back for a really cool job in a really cool department at work. I thought I did well in one part of the interview, and not so well in the follow-up interview. I guess the latter prevailed over the former as I found out yesterday that I did not get the job. All of these rejections are starting to pile up (18 or 19 in a row now), and it's getting really frustrating. I'm about at my wit's end. The only silver lining is that these failures are pushing me to continue developing my coding skills as well as skills in deep learning and data science. I hope a new opportunity is around the corner.
+
+On the lighter side of things, every day is interesting and exciting with a newborn. There are definitely ups and downs, but the good far, far outweighs the bad (crying, hehe). The dogs seem to be settling back in too, which is helpful. The first day or two was rough with Coco hobbling around, and Bella vomiting up her dinner all over the rug. This weekend should be fun with a couple get-togethers planned with friends.
