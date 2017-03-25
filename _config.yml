@@ -18,3 +18,4 @@ twitter_username: cold_fashioned
 github_username:  coldfashioned
 #Others
 markdown: kramdown
+highlighter: rouge
