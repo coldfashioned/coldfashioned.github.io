@@ -241,6 +241,14 @@ a {
   color: #819198; }
 
 /**
+Center images on the page
+*/
+.center-image
+{
+  margin: 0 auto;
+  display: block;
+}
+/**
  * Icons
  */
 .icon {
