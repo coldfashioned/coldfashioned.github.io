@@ -12,6 +12,7 @@ author:
 # Gems
 gems:
   - jekyll-paginate
+  - jekyll-jupyter-notebook
 #From original build
 include: ['_pages']
 twitter_username: cold_fashioned
