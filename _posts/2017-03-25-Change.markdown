@@ -7,13 +7,13 @@ tags:   code markdown jobs
 ### Section 1: Markdown tips
 ___
 So, I recently read a tutorial on markdown and learned a few tricks! First was the use of the "#" symbol to quickly denote header level. H1 corresponds to a single #, all the way down to six # symbols for h6. The section header above is h3 size, which seems like a nice fit for my blog. I learned that trick when working in Jupyter notebooks, but for some reason, didn't put two and two together for writing blog posts. Next is creating the horizontal break line. That's another fairly easy trick to remember, by using three consecutive underscores, asterisks or dashes.  
-This line should follow a line break, created by two spaces followed by one return. Of course, I prefer double spacing between paragraphs, so I'll just stick with my usual typing patterns for that thankyouverymuch. Also of note are **bold typing, created by enclosing text between double asterisks**, as well as _italicized text, which comes from wrapping text between a single underscore._ That one kinda reminds me if textile formatting, used on the Mutable Instruments forum. Another interesting tip is how to embed code in these blogs posts. Multi-line code snippets will render nicely when wrapped in triple accent marks.
-```python
+This line should follow a line break, created by two spaces followed by one return. Of course, I prefer double spacing between paragraphs, so I'll just stick with my usual typing patterns for that thankyouverymuch. Also of note are **bold typing, created by enclosing text between double asterisks**, as well as _italicized text, which comes from wrapping text between a single underscore._ That one kinda reminds me if textile formatting, used on the Mutable Instruments forum. Another interesting tip is how to embed code in these blogs posts. I can embed a block of code using the rouge highlighter for Jekyll, as seen below. 
+{% highlight python %}
 summary = False
 if args[0] == '--summaryfile':
     summary = True
     del args[0]
-    ```    
+{% endhighlight %}
 Well, theoretically, at least. I'm going to have to work on code highlighting, it seems. Ironically, I'll probably never go back to fixing this blog post though. The above code snippet shall be incorrect forever!!! Anyway, markdown is great, I'm glad it exists. Markdown is to html as Keras is to TensorFlow. Now, there's a nerdy analogy for you.
 
 ### Section 2: New Deep Learning Course
