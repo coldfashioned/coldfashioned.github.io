@@ -52,8 +52,8 @@ Of course, now I wanted to know just what kind of reductions in compute time I c
 
 ![Blue Lights are Nice](/assets/Final.jpg){: .center-image}
 
-[Dettmer]:(http://timdettmers.com/2015/03/09/deep-learning-hardware-guide/)
-[GPU Medium]:(https://medium.com/towards-data-science/building-your-own-deep-learning-box-47b918aea1eb#.mju6mkvqj)
-[GPU Medium 2]:(https://medium.com/@sravsatuluri/setting-up-a-deep-learning-machine-in-a-lazy-yet-quick-way-be2642318850#.f616klf77)
-[logical]:(http://www.logicalincrements.com)
-[pcpart]:(http://www.pcpartpicker.com)
+[Dettmer]:http://timdettmers.com/2015/03/09/deep-learning-hardware-guide/
+[GPU Medium]:https://medium.com/towards-data-science/building-your-own-deep-learning-box-47b918aea1eb#.mju6mkvqj
+[GPU Medium 2]:https://medium.com/@sravsatuluri/setting-up-a-deep-learning-machine-in-a-lazy-yet-quick-way-be2642318850#.f616klf77
+[logical]:http://www.logicalincrements.com
+[pcpart]:http://www.pcpartpicker.com

@@ -14,5 +14,5 @@ In other news, after watching some compelling ([GAS][GAS]-inducing) videos on yo
 
 Well, that's it for now, a quick update. I promise it won't be two months until the next blog post!
 
-[fastai]:(http://course.fast.ai)
-[GAS]:(http://en.wikipedia.org/wiki/Gear_Acquisition_Syndrome)
+[fastai]: http://course.fast.ai
+[GAS]: http://en.wikipedia.org/wiki/Gear_Acquisition_Syndrome
