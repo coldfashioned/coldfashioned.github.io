@@ -20,3 +20,5 @@ github_username:  coldfashioned
 #Others
 markdown: kramdown
 highlighter: rouge
+# plugins
+plugins: ['jekyll-twitter-plugin']
