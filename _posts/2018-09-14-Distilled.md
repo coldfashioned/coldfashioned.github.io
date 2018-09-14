@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Bouncin' Back"
-date:   2018-09-14
+date:   2018-09-13
 tags:   balance job flint music
 ---
 ### Seeking Balance
@@ -14,9 +14,9 @@ I wish I could say that I've made major progress on this project, but it feels m
 
 ### Frequency Modulations
 
-Amidst the various frustrations, one thing that has been calming and enjoyable is my electronic music hobby. I recently picked up a new synth, and I am blown away. I owe the missus for letting me drop the coin on this new gear, but at least I managed to wrangle a really good deal on a near mint second-hand unit. After many years trying different software, iPad apps, eurorack and more, I think I've finally landed on a setup that is inspiring and deep enough to keep me captivated. I'm learning how to make the most of what I have, and having a lot of fun along the way. I'm hoping to put together a set of real songs, but all in good time. Priorities and all. In the meantime, check out the video below, a little test drive of the new synth. 
+Amidst the various frustrations, one thing that has been calming and enjoyable is my electronic music hobby. I recently picked up a new synth, and I am blown away. I owe the missus for letting me drop the coin on this new gear, but at least I managed to wrangle a really good deal on a near mint second-hand unit. After many years trying different software, iPad apps, eurorack and more, I think I've finally landed on a setup that is inspiring and deep enough to keep me captivated. I'm learning how to make the most of what I have, and having a lot of fun along the way. I'm hoping to put together a set of real songs, but all in good time. Priorities and all. In the meantime, check out the video below, a little test drive of the new synth.
 
-<iframe width="640" height="360" src="https://www.youtube.com/embed/xWMsRaOyMW4" frameborder="0" allowfullscreen></iframe>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/xWMsRaOyMW4" frameborder="0" allowfullscreen></iframe>{: .center-image}
 
 [docker]:https://www.docker.com/
 [robosat]:https://github.com/mapbox/robosat
