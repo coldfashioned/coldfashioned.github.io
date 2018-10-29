@@ -249,6 +249,15 @@ Center images on the page
   display: block;
 }
 /**
+image caption css from stack overflow
+*/
+.image-caption {
+  text-align: center;
+  font-size: .8rem;
+  color: light-grey;
+}
+
+/**
  * Icons
  */
 .icon {
