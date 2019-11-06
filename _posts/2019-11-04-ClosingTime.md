@@ -4,7 +4,7 @@ title:  "Ka Runs Like a Wheel..."
 date:   2019-11-04
 tags:   life music projects
 ---
-### Endings... and Beginnigs
+### Endings... and Beginnings
 
 I'm trying to come up with the words to intro this blog post, but I find myself struggling. The struggle comes from trying to balance the two sides of A) wanting to maximize the quality of my content and B) just getting _something_ written down to ensure that I can get this post done in the time available to me. The spirit of this post that I want to convey is the cyclical nature of life. Endings often lead to beginnings. The case that I'm speaking of this time is the music project I've been working on for the bulk of the past 6 months. So, without further ado...
 
