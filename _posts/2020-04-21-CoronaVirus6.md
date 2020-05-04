@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Fresh Start"
+title:  "Five Weeks"
 date:   2020-04-21
 tags:   isolation life update COVID19
 ---
@@ -14,4 +14,4 @@ One of the benevolent evil-geniuses at [Elektron](https://www.elektron.se), make
 
 ### Twin Collaboration
 
-I want to talk about working together on fun projects with my twin brother, but that will have to wait until the next post. 
+I want to talk about working together on fun projects with my twin brother, but that will have to wait until the next post.
