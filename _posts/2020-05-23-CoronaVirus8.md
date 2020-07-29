@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "When Are We?"
+title:  "?"
 date:   2020-05-23
 tags:   isolation life COVID19
 ---
@@ -16,4 +16,4 @@ I have stolen moments here and there to tool around with my sampler, the venerab
 
 ### Next time
 
-Pseudo-milestone: I have now equaled last year's post count -- and it's only MAY! The littlest things shall be celebrated. 
+Pseudo-milestone: I have now equaled last year's post count -- and it's only MAY! The littlest things shall be celebrated.
