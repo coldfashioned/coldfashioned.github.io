@@ -11,7 +11,6 @@ author:
 
 # Gems
 gems:
-  - jekyll-paginate
   - jekyll-jupyter-notebook
 #From original build
 include: ['_pages']
@@ -21,4 +20,5 @@ github_username:  coldfashioned
 markdown: kramdown
 highlighter: rouge
 # plugins
-plugins: ['jekyll-twitter-plugin']
+plugins: ['jekyll-twitter-plugin'] 
+         [jekyll-paginate]
