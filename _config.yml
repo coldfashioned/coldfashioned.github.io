@@ -20,5 +20,5 @@ github_username:  coldfashioned
 markdown: kramdown
 highlighter: rouge
 # plugins
-plugins: ['jekyll-twitter-plugin'] 
+plugins: ['jekyll-twitter-plugin']
          [jekyll-paginate]
