@@ -17,6 +17,8 @@ gems:
 include: ['_pages']
 twitter_username: cold_fashioned
 github_username: coldfashioned
+instagram_username: c_0ldfashioned
+soundcloud_username: cold_fashioned
 
 #Others
 markdown: kramdown
