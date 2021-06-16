@@ -11,4 +11,4 @@ The tiny pinhole of light at the end of the tunnel just doesn't seem to be expan
 
 ### That's it
 
-Shittiest blog post ever. I really phoned it in, this time. 
+Shittiest blog post ever. I really phoned it in this time. 
