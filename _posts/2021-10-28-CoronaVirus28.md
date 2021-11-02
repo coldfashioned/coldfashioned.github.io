@@ -24,3 +24,5 @@ Of the above-mentioned tunes, I think the one I want to focus on next is to make
 - fast-ish breakbeats (~170 bpm, as far as I can tell)
 
 Really, it's those two things that captured me. The _juxtaposition_ of the calm and the chaotic. The real trick to pulling this off is being able to interweave these two disparate themes effectively. I'm not sure yet which bits of gear I can use to pull this off, but I should start with the MPC. Maybe what I need to do is create some breakbeats on the A4 and OT and then sample those into the MPC for further processing and chopping. I'm not sure what elements to use as the calm, subtle parts, but I'm sure I will figure it out. Sprinkle in some accents from the modular, or one of the other pieces and I think I'm on to something. I hope that by the next time I update the blog, I can report success in capturing this idea.
+
+<iframe width="640" height="360" src="https://www.youtube.com/embed/__1fVeoMkoE" frameborder="0" allowfullscreen></iframe>
