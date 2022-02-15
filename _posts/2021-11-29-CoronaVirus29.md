@@ -7,7 +7,7 @@ tags:   album music projects
 
 ### Album Progress Report
 
-Hola me gente! I suppose that if I start each post by copying and pasting from a previous post, then I guess it's really easy to reuse that greeting, so here we are. I set a reminder in my phone to write this post a couple weeks ago, but things got busy and I am only just getting around to writing an update. The lag means that some of the topics I wanted to cover are not quite as relevant anymore. Of course, without my saying that, readers would be none the wiser. D'oh!
+Hola mi gente! I suppose that if I start each post by copying and pasting from a previous post, then I guess it's really easy to reuse that greeting, so here we are. I set a reminder in my phone to write this post a couple weeks ago, but things got busy and I am only just getting around to writing an update. The lag means that some of the topics I wanted to cover are not quite as relevant anymore. Of course, without my saying that, readers would be none the wiser. D'oh!
 
 ### Difficulties
 
@@ -21,4 +21,4 @@ One thing that has really helped my productivity lately is the stabilization of 
 
 ### Next Time
 
-I'll try to get some photos of the setup as it sits now and after the little riser goes into place. I also hope to be updating with a progress report on the album. The goal is to post before the end of the year, but I'm not sure that'll work out. December is here, and it's usually a busy month. 
+I'll try to get some photos of the setup as it sits now and after the little riser goes into place. I also hope to be updating with a progress report on the album. The goal is to post before the end of the year, but I'm not sure that'll work out. December is here, and it's usually a busy month.

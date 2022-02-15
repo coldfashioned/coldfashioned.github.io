@@ -7,7 +7,7 @@ tags:   life pandemic music recovery
 
 ### Album Progress Report
 
-Hola me gente! (_I wonder if I should make that a regular greeting?_) I'm back again with a quick update on what I've been working on lately. As mentioned in my previous post, I am working on an album to be released next year on Triplicate Records. I'm so excited for this opportunity, but seeing as this process isn't something that can be done quickly (for me, at least), I want to keep a journal of my progress to not only have something to look back on, but also as a way to help keep the excitement and momentum up.
+Hola mi gente! (_I wonder if I should make that a regular greeting?_) I'm back again with a quick update on what I've been working on lately. As mentioned in my previous post, I am working on an album to be released next year on Triplicate Records. I'm so excited for this opportunity, but seeing as this process isn't something that can be done quickly (for me, at least), I want to keep a journal of my progress to not only have something to look back on, but also as a way to help keep the excitement and momentum up.
 
 Well, so much for that, now that it's 4 days later and I'm just now coming back to finishing this blog post. Anyway, Let's do this.
 
